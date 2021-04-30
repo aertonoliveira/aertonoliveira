@@ -15,6 +15,6 @@ My name is Aerton Oliveira Dos Reis Junior. I work as a software developer at St
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AertonOliveira&hide_border=true)
 
 <p align="left">
-<a href="https://bit.ly/3e5RRY1"><img src="https://img.shields.io/badge/-aerton-oliveira-161a06164?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://bit.ly/3e5RRY1"><img src="https://img.shields.io/badge/-aertonoliveira?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:aertonoliveiradosreis@gmail.com"><img src="https://img.shields.io/badge/-aertonoliveiradosreis@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
